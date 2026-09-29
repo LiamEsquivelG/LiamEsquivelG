@@ -4,10 +4,10 @@
 
 Me interesa convertir datos y procesos en **decisiones con resultados medibles**. Lideré, junto a mi equipo, un sistema de gestión operativa que hoy está implementado en la **Municipalidad de Viña del Mar**, y elaboré propuestas de mejora que redujeron tiempos y costos operativos.
 
-## 🚀 Logros destacados
-- 🛸 **Sistema de planificación y trazabilidad de drones** (proyecto de título): en uso en la Municipalidad de Viña del Mar. Logró **−20% en el tiempo de coordinación** de operativos.
-- 💰 **Optimización de subcontrataciones:** propuesta que permitió internalizar 4 perfiles, con un ahorro de **≈ $1,2 M mensuales por persona**.
-- ⚙️ **Automatización de reportes:** redujo en un **70% el tiempo** de elaboración de tareas recurrentes.
+##  Logros destacados
+-  **Sistema de planificación y trazabilidad de drones** (proyecto de título): en uso en la Municipalidad de Viña del Mar. Logró **−20% en el tiempo de coordinación** de operativos.
+-  **Optimización de subcontrataciones:** propuesta que permitió internalizar 4 perfiles, con un ahorro de **≈ $1,2 M mensuales por persona**.
+-  **Automatización de reportes:** redujo en un **70% el tiempo** de elaboración de tareas recurrentes.
 
 ## 📂 Proyectos (demos con datos simulados)
 | Proyecto | Qué muestra | Stack |
